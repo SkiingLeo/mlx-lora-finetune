@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Apple_Silicon-M1_|_M2_|_M3_|_M4-black?logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/MLX-LoRA_&_QLoRA-blue?logo=apple" />
   <img src="https://img.shields.io/badge/Models-4_compared-8A2BE2" />
-  <img src="https://img.shields.io/badge/VRAM_needed-0_GB-orange" />
+  <img src="https://img.shields.io/badge/RAM-4_GB_min-orange" />
   <img src="https://img.shields.io/badge/pkg-uv-blueviolet?logo=astral" />
 </p>
 
