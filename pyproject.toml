@@ -1,0 +1,21 @@
+[project]
+name = "mlx-lora-finetune"
+version = "0.1.0"
+description = "Fine-tune Qwen3.5-0.8B for text-to-SQL on your Mac with MLX LoRA — no GPU required"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = [
+    "mlx>=0.18.1",
+    "mlx-lm>=0.21.0",
+    "huggingface-hub>=0.23.0",
+    "numpy>=1.24.0",
+    "transformers>=4.40.0",
+    "datasets>=2.19.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.5.0",
+    "pytest>=8.0.0",
+]
